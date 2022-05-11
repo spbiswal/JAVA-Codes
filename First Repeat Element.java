@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Driver Code
 
 public class FirstRepeatElement {
 	public static void main(String[] args)
@@ -18,6 +19,8 @@ public class FirstRepeatElement {
 		findrepeat(a); //Function_Call
 		sc.close();
 	}
+	
+//Function
 	
 	public static void findrepeat(int[] a)
 	{
