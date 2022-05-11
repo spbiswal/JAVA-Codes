@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Q1M {
+public class FirstRepeatElement {
 	public static void main(String[] args)
 	{
 		int n;
@@ -55,6 +55,7 @@ public class Q1M {
 						
 		}
 
-	}}
+	}
+}
 
 
