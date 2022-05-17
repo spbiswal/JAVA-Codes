@@ -1,3 +1,5 @@
+/*Q.Given an array containing 0s and 1s. Write an algorithms to sort array so that 0s come first followed by 1s.*/
+
 import java.util.*;
 public class Partition01 {
 	public static void main(String[] args)
